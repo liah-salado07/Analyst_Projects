@@ -1,2 +1,2 @@
 # Analyst_Projects
-This is to show some projects, in this process of learning data analyst. 
+This repository showcases projects developed during my Data Analytics learning journey.
